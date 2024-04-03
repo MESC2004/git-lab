@@ -7,5 +7,6 @@
     Miguel Soria
 
 <h2>Contents<h2>
-
+    <h3>Images<h3>
+        ![Picture of some polar bears!] (/assets/images/PolarBears1.png)
 <h2>References<h2>
