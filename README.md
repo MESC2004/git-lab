@@ -13,7 +13,8 @@
 
 <h3>Code Examples<h3>
 
-```python 
+```python
+    # Python Code
     a=1 
     b=2 
     print(a+b)
