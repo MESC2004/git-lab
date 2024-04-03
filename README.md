@@ -1,5 +1,11 @@
 # Git and GitHub practice lab
 
-Git practice laboratory
+<h2>Description<h2>
 
-Miguel Soria
+    Git practice laboratory
+
+    Miguel Soria
+
+<h2>Contents<h2>
+
+<h2>References<h2>
