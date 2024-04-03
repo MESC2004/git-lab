@@ -24,7 +24,7 @@
 
 ![Picture of some polar bears!](https://github.com/MESC2004/git-lab/blob/main/PolarBears1.jpg)
 
-![Picture of more polar bears!](https://github.com/MESC2004/git-lab/blob/main/PolarBears2.png)
+![Picture of more polar bears!](https://github.com/MESC2004/git-lab/blob/main/PolarBears2.jpg)
 
 <h3>Code Examples<h3>
 
