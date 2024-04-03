@@ -11,4 +11,12 @@
 
 ![Picture of some polar bears!](https://github.com/MESC2004/git-lab/blob/main/PolarBears1.jpg)
 
+<h3>Code Examples<h3>
+
+```python 
+    a=1 
+    b=2 
+    print(a+b)
+```
+
 <h2>References<h2>
