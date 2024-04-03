@@ -8,5 +8,5 @@
 
 <h2>Contents<h2>
     <h3>Images<h3>
-        ![Picture of some polar bears!] (/assets/images/PolarBears1.jpg)
+        ![Picture of some polar bears!] (PolarBears1.jpg)
 <h2>References<h2>
