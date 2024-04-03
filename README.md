@@ -19,5 +19,10 @@
     b=2 
     print(a+b)
 ```
+<h3>Lists<h3>
+
+    - [ ] Turn on GitHub pages
+    - [ ] Outline my portfolio
+    - [ ] Introduce myself to the world
 
 <h2>References<h2>
