@@ -34,3 +34,6 @@ Miguel Soria
 [Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 
 [Git documentation](https://git-scm.com/doc)
+
+[!NOTE]
+These references are generic!
