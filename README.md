@@ -29,6 +29,8 @@ Miguel Soria
 
 <h2>References<h2>
 
-[1. Github documentation](https://docs.github.com/en)
-[2. Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
-[3. Git documentation](https://git-scm.com/doc)
+[Github documentation](https://docs.github.com/en)
+
+[Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+
+[Git documentation](https://git-scm.com/doc)
