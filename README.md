@@ -35,5 +35,3 @@ Miguel Soria
 
 [Git documentation](https://git-scm.com/doc)
 
->[!NOTE]
->These references are generic!
