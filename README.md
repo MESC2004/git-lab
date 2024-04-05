@@ -10,9 +10,9 @@ Miguel Soria
 
 ### Images
 
-![Picture of some polar bears!](https://github.com/MESC2004/git-lab/blob/main/PolarBears1.jpg)
+![Picture of some polar bears!](https://github.com/MESC2004/git-lab/blob/main/images/PolarBears1.jpg)
 
-![Picture of more polar bears!](https://github.com/MESC2004/git-lab/blob/main/PolarBears2.jpg)
+![Picture of more polar bears!](https://github.com/MESC2004/git-lab/blob/main/images/PolarBears2.jpg)
 
 ### Code Examples
 
